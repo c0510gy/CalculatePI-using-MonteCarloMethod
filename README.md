@@ -1,6 +1,12 @@
 # CalculatePI-using-MonteCarloMethod
 몬테카를로 방법(Monte Carlo Method)를 이용한 원주율 파이(π)값 계산
 
+
+**구현 영상**
+
+[![YoutubeVid](http://img.youtube.com/vi/_VA1I8UHvNs/0.jpg)](http://www.youtube.com/watch?v=_VA1I8UHvNs)
+
+
 ## 0. 그대로 실행 시 주의사항
 그대로 실행 시, 하위 디렉토리 ```\imgs``` 를 생성하고 그래픽화한 이미지를 모두 저장하도록 되어 있습니다.
 수많은 파일을 생성하고 싶지 않다면, ```Form1.cs``` 에서 ```GetPI```클래스의 ```Next()``` 함수를 수정하세요.
